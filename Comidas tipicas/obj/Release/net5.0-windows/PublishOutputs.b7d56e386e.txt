@@ -1,0 +1,5 @@
+C:\Users\Diego Portilla\OneDrive\Escritorio\1\Comidas tipicas.exe
+C:\Users\Diego Portilla\OneDrive\Escritorio\1\Comidas tipicas.dll
+C:\Users\Diego Portilla\OneDrive\Escritorio\1\Comidas tipicas.deps.json
+C:\Users\Diego Portilla\OneDrive\Escritorio\1\Comidas tipicas.runtimeconfig.json
+C:\Users\Diego Portilla\OneDrive\Escritorio\1\Comidas tipicas.pdb
